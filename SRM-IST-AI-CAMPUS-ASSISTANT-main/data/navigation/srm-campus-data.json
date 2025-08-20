@@ -1,0 +1,117 @@
+{
+  "SRM_IST_NCR_Ghaziabad_Campus_Map": {
+    "Main_Gate_Gate1": {
+      "Navigation": "Enter from Main Gate (Gate No. 1). After 100-200 meters straight walk, on the right side, you will find the Academic Block.",
+      "Landmarks": {
+        "Transport_Office": "Just after entering Main Gate (Gate No. 1), on the right side is the Transport Office.",
+        "Medical_Room": "Beside the Transport Office is the SRM Medical Room and Hospital with ambulance facilities."
+      }
+    },
+    "Academic_Block": {
+      "Navigation": "Located 100-200 meters straight from the main gate on the right side.",
+      "Description": "The Academic Block at SRM IST NCR Ghaziabad houses multiple departments, classrooms, labs, and administrative offices. It is the central hub of academic activities on campus.",
+      "Inside": {
+        "Ground_Floor": {
+          "Placement_Cell": "Contains the Training and Placement Cell office.",
+          "Washrooms": "Boys' and Girls' washrooms available.",
+          "Facilities": "Elevator at the ground hall."
+        },
+        "First_Floor": {
+          "Library_Access": "Connected to Central Library & Easwari Auditorium area.",
+          "Washrooms": "Boys' and Girls' washrooms available."
+        },
+        "Second_Floor": {
+          "Departments": "Department of Electronics and Electrical Engineering.",
+          "Classrooms": "Classrooms for Electronics & Electrical students.",
+          "Washrooms": "Boys' and Girls' washrooms available."
+        },
+        "Third_Floor": {
+          "Departments": "Business Applications Department.",
+          "Classrooms": "Classrooms for Business Applications students.",
+          "Cafeteria": "Café de Latte located on the left side of stairs.",
+          "Washrooms": "Boys' and Girls' washrooms available."
+        },
+        "Fourth_Floor": {
+          "Departments": "Computer Science and Engineering Department.",
+          "Classrooms": "Classrooms for CSE students.",
+          "Washrooms": "No washrooms on this floor."
+        },
+        "Fifth_Floor": {
+          "Departments": "Computer Science and Engineering Department.",
+          "Classrooms": "Classrooms for CSE students.",
+          "Washrooms": "Boys' and Girls' washrooms available."
+        },
+        "VKC_Access": {
+          "Navigation": "Just after entering the Academic Block, stairs to the left lead to VKC Labs.",
+          "Description": "The Vendhar Knowledge Centre (VKC) includes modern data science labs, iMac labs, the Entrepreneurship Cell, and dedicated spaces for research and innovation."
+        }
+      }
+    },
+    "Easwari_Auditorium": {
+      "Navigation": "Located opposite the Central Library.",
+      "Description": "The Easwari Auditorium is a large venue used for seminars, guest lectures, workshops, cultural programs, and major campus events."
+    },
+    "Central_Library": {
+      "Navigation": "Located in front of Easwari Auditorium, accessible from the Academic Block.",
+      "Description": "The Central Library is a well-stocked academic resource hub with books, journals, digital materials, and study areas for students."
+    },
+    "Training_and_Placement_Cell": {
+      "Navigation": "Located on the ground floor of the Academic Block.",
+      "Description": "The Training and Placement Cell connects students with industry, providing career counseling, internships, skill-building, and placement opportunities."
+    },
+    "Laboratories": {
+      "Navigation": "From the Academic Block, walk straight. On the left, you will find Red and Yellow Canteens. Ahead are Civil and Mechanical Labs, and on the right side are Electronics and Electrical Labs.",
+      "Description": "The laboratories include Civil, Mechanical, Electronics, and Electrical labs equipped with advanced infrastructure for practical training."
+    },
+    "Cafeterias": {
+      "Red_and_Yellow_Canteens": {
+        "Navigation": "From the Academic Block, walk straight, take the left side to find Red Canteen and beside it Yellow Canteen.",
+        "Description": "The Red and Yellow canteens are popular student hangouts offering affordable food and beverages."
+      },
+      "Green_Canteen": {
+        "Navigation": "Located just in front of the Academic Block, beside SRM Stationery.",
+        "Description": "The Green Canteen provides snacks, meals, and beverages with a focus on vegetarian options."
+      },
+      "Cafe_de_Latte": {
+        "Navigation": "Located on the 3rd floor of the Academic Block, left side of stairs.",
+        "Description": "A modern café inside the campus offering coffee, beverages, and light snacks."
+      }
+    },
+    "SRM_Stationery": {
+      "Navigation": "Located in front of Academic Block, beside Green Canteen.",
+      "Description": "The SRM Stationery store provides books, notebooks, stationery, and essential academic supplies."
+    },
+    "Playground_and_Basketball_Court": {
+      "Navigation": "Directly in front of the Academic Block.",
+      "Description": "The campus includes a large playground and basketball court for sports and student activities."
+    },
+    "Incubation_Centre": {
+      "Navigation": "From the backside of Yellow Canteen, take a right turn and walk straight for 100 meters. The Incubation Centre is on the right side.",
+      "Description": "The Incubation Centre supports startups, student innovation, and entrepreneurship with mentorship and infrastructure."
+    },
+    "Hostel_Blocks": {
+      "Navigation": "From the backside of Yellow Canteen, take a right turn and walk straight for 200-300 meters. All hostel blocks are located in this area.",
+      "Blocks": [
+        "Hostel Block A",
+        "Hostel Block B",
+        "Hostel Block C",
+        "Hostel Block D (First-year students)",
+        "Hostel Block G (First-year students)",
+        "Hostel Block H (Senior students)",
+        "Hostel Block I (International, premium)",
+        "New Hostel Block 1",
+        "New Hostel Block 2",
+        "Old Campus Hostel Block"
+      ],
+      "Description": "SRM hostels provide accommodation for students with facilities such as dining halls, recreational areas, Wi-Fi, and 24x7 security."
+    },
+    "SRMPG_and_Pharmacy_Block": {
+      "Navigation": "From the Green Canteen, walk straight 100 meters to reach SRMPG Area on the left. Walk 50 meters more and turn right to reach Pharmacy Block. In front of Pharmacy Block is the Bus Transport Area.",
+      "Description": "The SRMPG area and Pharmacy Block cater to pharmaceutical sciences students, including classrooms, labs, and academic offices."
+    },
+    "Transport": {
+      "Navigation": "Gate No. 2 is the official bus departure point.",
+      "Description": "All SRM buses depart at 4:15 PM sharp from Gate No. 2 after classes."
+    }
+  }
+}
