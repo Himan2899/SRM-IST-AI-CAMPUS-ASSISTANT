@@ -316,15 +316,6 @@ ai-campus-assistant/
 
 ---
 
-## 🏆 **Achievements & Recognition**
-
-- **🥇 Best AI Campus Solution 2024**
-- **🏆 Innovation Award** - SRM IST
-- **🌟 Student Choice Award** - Most Useful Platform
-- **📱 Mobile Excellence** - Responsive Design Award
-- **🤖 AI Innovation** - Groq Partnership Recognition
-
----
 
 ## 🤝 **Contributing**
 
